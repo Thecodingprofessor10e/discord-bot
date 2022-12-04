@@ -6,3 +6,7 @@ update_configs:
     allowed_updates:
       - match:
           update_type: "security"
+     version : 2
+    update_configs:
+    update_type: "Security"
+   //Bot updated
